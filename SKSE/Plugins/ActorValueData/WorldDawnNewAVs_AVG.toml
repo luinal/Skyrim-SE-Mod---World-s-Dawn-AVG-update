@@ -1,0 +1,82 @@
+[MagicItemFindMod]
+type = "Adaptive"
+alias = "FavorActive"
+
+[TemperedItemFindMod]
+type = "Adaptive"
+alias = "FavorsPerDay"
+
+[ExtraLootMod]
+type = "Adaptive"
+alias = "FavorsPerDayTimer"
+
+[SpellCostDecrease]
+type = "Adaptive"
+alias = "WardDeflection"
+
+[DmgMitigation]
+type = "Adaptive"
+alias = "ShieldPerks"
+
+[PowerAttackStaminaMod]
+type = "Adaptive"
+alias = "LastFlattered"
+
+[PowerAttackDmgMod]
+type = "Adaptive"
+alias = "PickPocketSkillAdvance"
+
+[CritDmgMod]
+type = "Adaptive"
+alias = "VoicePoints"
+
+[HpS]
+type = "Adaptive"
+alias = "DetectLifeRange"
+
+[MpS]
+type = "Adaptive"
+alias = "EnchantingSkillAdvance"
+
+[Overpower]
+type = "Adaptive"
+alias = "NightEye"
+
+[Backstab]
+type = "Adaptive"
+alias = "SmithingSkillAdvance"
+
+[AllXpMod]
+type = "Adaptive"
+alias = "RestorationSkillAdvance"
+
+[MagicXpMod]
+type = "Adaptive"
+alias = "DestructionSkillAdvance"
+
+[ArmorPenetration]
+type = "Adaptive"
+alias = "HeavyArmorSkillAdvance"
+
+[MagicDmgReduce]
+type = "Adaptive"
+alias = "LastBribedIntimidated"
+
+[GoldFindMod]
+type = "Adaptive"
+alias = "FavorPointsBonus"
+
+[DamageThreshold]
+type = "Adaptive"
+alias = "VoiceRate"
+
+[Counterattack]
+type = "Adaptive"
+alias = "OneHandedSkillAdvance"
+
+[Execution]
+type = "Adaptive"
+alias = "AlchemySkillAdvance"
+
+[Include]
+"Worlds Dawn.esp" = ["MagicItemFindMod", "TemperedItemFindMod", "ExtraLootMod", "SpellCostDecrease", "DmgMitigation", "PowerAttackStaminaMod", "PowerAttackDmgMod", "CritDmgMod", "HpS", "MpS", "Overpower", "Backstab", "AllXpMod", "MagicXpMod", "ArmorPenetration", "MagicDmgReduce", "GoldFindMod", "DamageThreshold", "Counterattack", "Execution"]
